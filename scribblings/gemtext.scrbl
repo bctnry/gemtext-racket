@@ -1,6 +1,7 @@
 #lang scribble/manual
 @require[@for-label[gemtext
-                    racket/base]]
+                    racket/base
+                    racket/contract]]
 
 @title{gemtext: A text/gemini parser for Racket}
 @author[(author+email "Sebastian René Higgins" "bctnry@outlook.com" #:obfuscate? #t)]
